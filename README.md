@@ -1,8 +1,5 @@
+# Thermal Infrared Planetary Science Imager (TIPSI)
 ![TIPSI GUI](gui.PNG)
-
-
-# 04/10/2017
-
 
 This is the most up to date version of the MATLAB code for TIPSI GUI.
 
