@@ -1,4 +1,4 @@
-![TIPSI GUI](gui.png)
+![TIPSI GUI](gui.PNG)
 
 
 # 04/10/2017
