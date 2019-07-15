@@ -1,4 +1,7 @@
-﻿04/10/2017
+![TIPSI GUI](gui.png)
+
+
+# 04/10/2017
 
 
 This is the most up to date version of the MATLAB code for TIPSI GUI. Please do not change anything without contacting  Dan Avner (davner@nau.edu) about changes. 
